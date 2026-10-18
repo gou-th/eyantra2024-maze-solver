@@ -11,7 +11,7 @@ The repository covers foundational digital logic, PWM generation, sensor interfa
 
 Foundational digital design implementations using Verilog HDL.
 
-- **AND_GATE** — AND gate implementation
+- **AND_GATE** — AND gate implementation.
 - **two_way_switch** — Two-way switching logic
 - **ripple_carry_adder** — Ripple carry adder
 - **sequence_detector** — Sequence detector
