@@ -71,6 +71,6 @@ Each task folder contains the relevant source files and any associated supportin
 
 ## Acknowledgements
 
-Developed as part of our participation in the e-Yantra competition 2024 Maze Solver track.
+Created during our participation in the e-Yantra Robotics Competition 2024.
 
 The repository documents our work and learning across digital logic design, processor implementation, peripheral interfacing and algorithmic problem-solving.
