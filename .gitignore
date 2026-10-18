@@ -1,0 +1,50 @@
+@'
+
+# Quartus generated files
+**/db/
+**/incremental_db/
+**/output_files/
+*.qws
+*.rpt
+*.done
+*.sof
+*.pof
+
+# ModelSim / Questa generated files
+**/simulation/modelsim/rtl_work/
+**/simulation/qsim/work/
+**/simulation/modelsim/modelsim.ini
+**/simulation/modelsim/msim_transcript
+**/simulation/qsim/vwf_sim_transcript
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+
+# Backup files
+*.bak
+*~
+
+# Editor and OS files
+Thumbs.db
+.DS_Store
+.vscode/
+
+@'
+
+# Generated ModelSim / Questa files
+*.sft
+*.vo
+*.xrf
+*.wlf
+*.vcd
+transcript
+results.txt
+result.txt
+
+# Generated simulation backup files
+*.bak*
+*.sim.vwf
+*.vwf.vt
+
+'@ | Add-Content -Encoding utf8 .gitignore
